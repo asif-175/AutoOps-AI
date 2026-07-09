@@ -1,0 +1,10 @@
+| Term        | Meaning                            |
+| ----------- | ---------------------------------- |
+| Instance    | Your own ServiceNow environment    |
+| PDI         | Free Personal Developer Instance   |
+| Application | Collection of related modules      |
+| Module      | Menu item inside application       |
+| Table       | Stores records                     |
+| Record      | One row in a table                 |
+| Form        | Screen used to create/view records |
+| List        | Multiple records shown together    |
